@@ -54,7 +54,7 @@ class InfoScreen extends StatelessWidget {
             const SizedBox(height: 20),
             //first paragraph
             Text(
-              "SpotiFlow is a simplified application built in Flutter dedicated to searching for Spotify artists. It leverages Spotify's Web API, allowing you to search your favorite artists, their following count, and their associated image.",
+              "SpotiFlow is an application built in Flutter dedicated to searching for Spotify artists. It leverages Spotify's Web API, allowing you to seamlessly search & display your favorite artists, their following count, and their associated image.",
               style: GoogleFonts.inter(
                 fontSize: 16,
                 color: const Color.fromARGB(240, 255, 255, 255),
