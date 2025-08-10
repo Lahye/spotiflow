@@ -8,13 +8,17 @@ Dart, Flutter & Spotify Web API
 
 Navigate to .env.example,
 
-Enter your Client ID,
+Enter your Client ID, found @ 
+https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app
 
-Enter Client Secret,
+Enter Client Secret, found @ 
+https://developer.spotify.com/documentation/general/guides/authorization-guide/#client-credentials-flow
 
 Rename .env.example to .env,
 
 "flutter pub get" in terminal
+
+To find Client ID & Key, reference 
 
 Good to go!
 
