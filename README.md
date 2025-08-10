@@ -4,7 +4,7 @@ Mobile app dedicated to providing information about Spotify artists such as: fol
 
 Dart, Flutter & Spotify Web API
 
-## BEFORE USE
+## TO USE
 
 Navigate to .env.example,
 
@@ -13,6 +13,8 @@ Enter your Client ID,
 Enter Client Secret,
 
 Rename .env.example to .env,
+
+"flutter pub get" in terminal
 
 Good to go!
 
