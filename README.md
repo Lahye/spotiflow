@@ -18,8 +18,6 @@ Rename .env.example to .env,
 
 "flutter pub get" in terminal
 
-To find Client ID & Key, reference 
-
 Good to go!
 
 ## TO KNOW
