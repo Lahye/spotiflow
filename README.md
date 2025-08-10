@@ -6,10 +6,13 @@ Dart, Flutter & Spotify Web API
 
 ## BEFORE USE
 
-Navigate to .env.example
-Enter your Client ID 
-Enter Client Secret
-Rename .env.example to .env
+Navigate to .env.example,
+
+Enter your Client ID,
+
+Enter Client Secret,
+
+Rename .env.example to .env,
 
 Good to go!
 
