@@ -4,6 +4,15 @@ Mobile app dedicated to providing information about Spotify artists such as: fol
 
 Dart, Flutter & Spotify Web API
 
+## BEFORE USE
+
+Navigate to .env.example
+Enter your Client ID 
+Enter Client Secret
+Rename .env.example to .env
+
+Good to go!
+
 ## TO KNOW
 
 The logo in the app bar on the homepage shows on about section
