@@ -16,7 +16,7 @@ https://developer.spotify.com/documentation/general/guides/authorization-guide/#
 
 Rename .env.example to .env,
 
-"flutter pub get" in terminal
+"flutter pub get --no-example" in terminal
 
 Good to go!
 
