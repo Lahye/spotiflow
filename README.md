@@ -22,7 +22,7 @@ Good to go!
 
 ## TO KNOW
 
-The logo in the app bar on the homepage shows on about section
+The logo in the app bar on the homepage shows an about section
 
 Artists automatically start to pop up when 3 letters are entered into the search bar
 
